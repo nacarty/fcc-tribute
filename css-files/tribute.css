@@ -2,16 +2,25 @@ body {background-color: lightgrey;
       padding:50px;}
 h1   {color: blue;
       font-family: arial;
-      font-size: 100px;
+      font-size:4.2vw;
       text-align:center;
-      height:50px;}
+  }
 
   h3{color:#FF0088;
-     font-family:verdana;
+     font-family:arial;
       text-align:center;
-       font-size:42px}
+       font-size:2.4vw;
+     }
 #photo-div{
   background-color:grey;
-  padding:}     
-p    {color: blue;}
+  padding:5px;
+  margin: auto;
+ width: 60%;
+ }  
+#details-div{
+  padding:15px;
+  margin: auto;
+  margin-top:1.1vw;
+ width: 60%;
+}
 
